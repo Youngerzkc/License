@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>image/error.png</file>
+        <file>image/noactive.png</file>
+        <file>image/success.png</file>
+        <file>image/active.png</file>
+        <file>image/close.png</file>
+        <file>image/delete.png</file>
+        <file>image/start.png</file>
+        <file>image/lock.png</file>
+    </qresource>
+</RCC>
